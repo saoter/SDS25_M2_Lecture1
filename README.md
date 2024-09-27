@@ -1,2 +1,6 @@
-# SDS25_M2_Lecture1
-Lecture materials for SDS25_M2_L1
+# Course: Natural Language Processing and Network Analysis
+
+## Lecture 2
+
+
+Here you can find everything for the first two days.
